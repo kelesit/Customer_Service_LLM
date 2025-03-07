@@ -1,0 +1,508 @@
+[
+    {
+        "service_id": "360518600",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367254",
+                "subject": "FW: Order 1005424 Confirmation",
+                "content": "Can you please provide me with an estimated date of delivery? Thanks.\nHalley M. Stephens\nPenny Stephens Law, PLLC\n2846 Remington Green Circle, Suite B\nTallahassee, Florida 32308\nOffice: (850) 999-2000\nEmail:\nh\nalley@pennystephenslaw.com\nThis email is from a law firm and may contain privileged attorney-client or work product communications. If received in error, please advise immediately and delete from your device.\nFrom:\nLitfad Support <support@litfad.com>\nSent:\nTuesday, February 11, 2025 8:36 PM\nTo:\nHalley Stephens <halley@pennystephenslaw.com>\nSubject:\nOrder 1005424 Confirmation\nDear Halley Van Asten:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n2846 Remington Green Circle Suite B, Halley Van Asten\nTallahassee, Florida 32308\nUnited States\n+1 8505105273\nBilling Address:\n5354 Pembridge Place , Halley Van Asten\nTallahassee, Florida 32309\nUnited States\n+1 8505105273\nYour order Number is:\n1005424\n; You can\nclick here\nto view more details.\nProducts\nAmount\nRectangular Manufactured Wood Top Reception Desk with Wood Grain Countertop, Hutch, Cable Management and Keyboard Tray, 94.5\"L x 23.6\"W x 39.4\"H, Natural\n94.5\"L x 23.6\"W x 39.4\"H, Natural\nQTY:1  SKU:2205772976\n$757.93\nOrder Grand Total:\nPrice:\n$757.93\nShipping Price:\n$181.11\nTotal:\n$939.04\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 00:04:39"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308367258",
+                "subject": "Re: FW: Order 1005424 Confirmation",
+                "content": "Dear\nHalley\n,\nThe  tracking  site  is  just  not  updated  yet.\nYour order has just arrived at the port and is being waiting for customs clearance, please wait patiently.\nAnd the transportation might be unusually slow because of the force majeure like, bad weather, custom clearance, delivery problem, etc. But we will keep tracking the shipping status for you.\nThe expected  delivery  date  is  around  the  late March .\nYour patience is much appreciated.\nRegards,\nLitfad\nFrom:\nHalley Stephens <halley@pennystephenslaw.com>\nDate:\n2025-02-21T00:04:39+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nFW: Order 1005424 Confirmation\nCan you please provide me with an estimated date of delivery? Thanks.\nHalley M. Stephens\nPenny Stephens Law, PLLC\n2846 Remington Green Circle, Suite B\nTallahassee, Florida 32308\nOffice: (850) 999-2000\nEmail:\nh\nalley@pennystephenslaw.com\nThis email is from a law firm and may contain privileged attorney-client or work product communications. If received in error, please advise immediately and delete from your device.\nFrom:\nLitfad Support <support@litfad.com>\nSent:\nTuesday, February 11, 2025 8:36 PM\nTo:\nHalley Stephens <halley@pennystephenslaw.com>\nSubject:\nOrder 1005424 Confirmation\nDear Halley Van Asten:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n2846 Remington Green Circle Suite B, Halley Van Asten\nTallahassee, Florida 32308\nUnited States\n+1 8505105273\nBilling Address:\n5354 Pembridge Place , Halley Van Asten\nTallahassee, Florida 32309\nUnited States\n+1 8505105273\nYour order Number is:\n1005424\n; You can\nclick here\nto view more details.\nProducts\nAmount\nRectangular Manufactured Wood Top Reception Desk with Wood Grain Countertop, Hutch, Cable Management and Keyboard Tray, 94.5\"L x 23.6\"W x 39.4\"H, Natural\n94.5\"L x 23.6\"W x 39.4\"H, Natural\nQTY:1  SKU:2205772976\n$757.93\nOrder Grand Total:\nPrice:\n$757.93\nShipping Price:\n$181.11\nTotal:\n$939.04\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 00:05:44"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518600",
+            "real_order_id": "360518600",
+            "order_time": "2025-02-12 11:30:40",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518600",
+            "carrier": "default",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:30:40",
+            "tracking_url": "https://www.17track.net?nums=tracking_number_360518600"
+        },
+        "llm_response": {
+            "reply": "Dear Halley M. Stephens,\n\nThank you for reaching out to us regarding your order. We are pleased to inform you that your order, number 1005424, is currently in transit. The estimated delivery date is April 18, 2025. You can track your shipment with the following tracking number: tracking_number_360518600.\n\nYou can use this link to check the current status of your package: [Track Your Order](https://www.17track.net?nums=tracking_number_360518600).\n\nPlease let us know if there's anything else we can help you with.\n\nKind regards,\nLitfad Customer Care\nwww.litfad.com",
+            "reply_level": 2,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "",
+            "analysis_summary": null,
+            "cost": 0.008536799999999999
+        }
+    },
+    {
+        "service_id": "360518601",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367261",
+                "subject": "930686",
+                "content": "Hallo! I have been waiting for my order\n(930686)\nfor too long. When will it arrive?\nThank you!\nViele liebe Grüße\nAnna Skurativska",
+                "time": "2025-02-21 00:06:58"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308368286",
+                "subject": "Order reminder- Your order   from Litfad",
+                "content": "Dear\nАнна\n,\nSorry for the delay.\nYour order  has  arrived at  your  country.\nPls wait for 5-7 days , your package will arrive soon.\nSometimes the transportation might be unusually slow because of the force majeure like, bad weather, custom clearance, delivery problem, etc.\nBut we will keep tracking the shipping status for you.\nYour patience is much appreciated.\nRegards,\nLitfad\nFrom:\nАнна Скуратовская <anna.sky.skyratovskaya@gmail.com>\nDate:\n2025-02-21T00:06:58+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\n930686\nHallo! I have been waiting for my order\n(930686)\nfor too long. When will it arrive?\nThank you!\nViele liebe Grüße\nAnna Skurativska",
+                "time": "2025-02-21 03:29:28"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518601",
+            "real_order_id": "360518601",
+            "order_time": "2025-02-12 11:31:04",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518601",
+            "carrier": "EMS",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:04",
+            "tracking_url": "https://www.ems.com.cn/queryList?mailNum=tracking_number_360518601"
+        },
+        "llm_response": {
+            "reply": "",
+            "reply_level": 1,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "顾客询问的订单号(930686)与服务单中的订单数据不匹配，无法确认顾客具体询问的订单是否已经发货及其状态。",
+            "analysis_summary": null,
+            "cost": 0.0030335999999999996
+        }
+    },
+    {
+        "service_id": "360518604",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367279",
+                "subject": "Re: Order 988795 Confirmation",
+                "content": "hi there,\ni hope this email finds you well i would like to ask where is my order as it has been a whole month and yet have received my order and i have paid the £6 delivery charge and i have not yet received it. so can you please chase this up for me and see what is going on.\nkind regards,\nHamid Saeedi\nSent from Yahoo Mail for iPhone\nOn Thursday, January 23, 2025, 5:47 pm, Litfad Support <support@litfad.com> wrote:\nDear Hamid Reza Saeedi:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n2a Hartforde Road Hamid Reza, Hamid Reza Saeedi\nBorehamwood, Hertfordshire WD6 5JU\nUnited Kingdom\n+44 7960001444\nBilling Address:\n2a Hartforde Road Hamid Reza, Hamid Reza Saeedi\nBorehamwood, Hertfordshire WD6 5JU\nUnited Kingdom\n+44 7960001444\nYour order Number is:\n988795\n; You can\nclick here\nto view more details.\nProducts\nAmount\nSquare Metal Plant Table with Frame Base and Shelving - One-Tier Design - Black 30 x 30 x 60 cm Wood\nBlack, 30 x 30 x 60 cm, Wood\nQTY:1  SKU:2200852070\n£31.97\nSquare Metal Plant Table with Frame Base and Shelving - One-Tier Design - Black 30 x 30 x 80 cm Wood\nBlack, 30 x 30 x 80 cm, Wood\nQTY:2  SKU:2200852072\n£75.80\nSquare Metal Plant Table with Frame Base and Shelving - One-Tier Design - Black 30 x 30 x 100 cm Wood\nBlack, 30 x 30 x 100 cm, Wood\nQTY:1  SKU:2200852074\n£44.72\nOrder Grand Total:\nPrice:\n£152.49\nShipping Price:\n£26.02\nTotal:\n£178.51\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 00:09:41"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308367303",
+                "subject": "Re: Re: Order 988795 Confirmation",
+                "content": "Dear\nSimin\n，\nThanks for shopping at our site!The expected  delivery  date  is  around  the  late March .\nYour patience is much appreciated.\nYou can check the progress of your order at any time.\nQuery Method：\n1. Open our website，click on \"Tracking Order\",  and enter \"Email Address\" and your order number.\n2. Or open the link  https://www.litfad.com/tracking，and enter \"Email Address\" and your order number\n3. We also have already searched for you, you can open the link\nhttps://www.litfad.com/tracking/order/988795/c39d419a31a9c1a18fc03b9bebdfea1e.html\nThanks.\nLitfad\nFrom:\nSimin Pazneh <s_pazneh@yahoo.com>\nDate:\n2025-02-21T00:09:41+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Order 988795 Confirmation\nhi there,\ni hope this email finds you well i would like to ask where is my order as it has been a whole month and yet have received my order and i have paid the £6 delivery charge and i have not yet received it. so can you please chase this up for me and see what is going on.\nkind regards,\nHamid Saeedi\nSent from Yahoo Mail for iPhone\nOn Thursday, January 23, 2025, 5:47 pm, Litfad Support <support@litfad.com> wrote:\nDear Hamid Reza Saeedi:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n2a Hartforde Road Hamid Reza, Hamid Reza Saeedi\nBorehamwood, Hertfordshire WD6 5JU\nUnited Kingdom\n+44 7960001444\nBilling Address:\n2a Hartforde Road Hamid Reza, Hamid Reza Saeedi\nBorehamwood, Hertfordshire WD6 5JU\nUnited Kingdom\n+44 7960001444\nYour order Number is:\n988795\n; You can\nclick here\nto view more details.\nProducts\nAmount\nSquare Metal Plant Table with Frame Base and Shelving - One-Tier Design - Black 30 x 30 x 60 cm Wood\nBlack, 30 x 30 x 60 cm, Wood\nQTY:1  SKU:2200852070\n£31.97\nSquare Metal Plant Table with Frame Base and Shelving - One-Tier Design - Black 30 x 30 x 80 cm Wood\nBlack, 30 x 30 x 80 cm, Wood\nQTY:2  SKU:2200852072\n£75.80\nSquare Metal Plant Table with Frame Base and Shelving - One-Tier Design - Black 30 x 30 x 100 cm Wood\nBlack, 30 x 30 x 100 cm, Wood\nQTY:1  SKU:2200852074\n£44.72\nOrder Grand Total:\nPrice:\n£152.49\nShipping Price:\n£26.02\nTotal:\n£178.51\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 00:13:34"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518604",
+            "real_order_id": "360518604",
+            "order_time": "2025-02-12 11:31:08",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518604",
+            "carrier": "default",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:08",
+            "tracking_url": "https://www.17track.net?nums=tracking_number_360518604"
+        },
+        "llm_response": {
+            "reply": "Hi Hamid,\n\nThank you for reaching out and bringing this to our attention. I understand your concern regarding the delivery of your order #988795. I apologize for any inconvenience caused by the delay.\n\nI've checked your order status, and it appears that your package left our facility in Shanghai and is currently on its way to you. The expected delivery date is April 18, 2025. The shipping can sometimes take longer than expected due to international transit and customs processes. \n\nYou can track your package using the following link: [Track Your Order](https://www.17track.net?nums=tracking_number_360518604).\n\nPlease rest assured, we're doing our best to expedite the delivery. Should you need further assistance or have more questions, feel free to contact us anytime.\n\nKind regards,\nCustomer Care\nlitfad.com",
+            "reply_level": 2,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "",
+            "analysis_summary": null,
+            "cost": 0.009415199999999999
+        }
+    },
+    {
+        "service_id": "360518605",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367281",
+                "subject": "Re: Re: we have dispatched your order 902810 from Litfad",
+                "content": "Hi\nIt is really very disappointing as we have not received our order yet it is about  three month now we made our order and paid. Can you please let us know the reason of this and what we can expect now ? Thanks\nRegards\nM shahzad\nFrom:\nLitfad Support <support@litfad.com>\nSent:\n28 January 2025 22:35\nTo:\nsagheer shahzad <sagheerrowing@hotmail.com>\nSubject:\nRe: Re: we have dispatched your order 902810 from Litfad\nDear\nsagheer\n，\nThanks for shopping at our site!\nYou can check the progress of your order at any time.\nQuery Method：\n1. Open our website，click on \"Tracking Order\",  and enter \"Email Address\" and your order number.\n2. Or open the link  https://www.litfad.com/tracking，and enter \"Email Address\" and your order number\n3. We also have already searched for you, you can open the link\nhttps://www.litfad.com/tracking/order/902810/359cc936c7b68ef41c7957f333e4c4ff.html\nThanks.\nLitfad\nFrom:\nsagheer shahzad <sagheerrowing@hotmail.com>\nDate:\n2025-01-29T00:04:19+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: we have dispatched your order 902810 from Litfad\nHi\nwe have not received our order yet, it is realy upsetting we order this item more then two months ago and this was the only email i received from you which i am replying back, the tracking link you provide in email is unable to give any updates. So please give us the update asap or we may consider to cancel it.\nFrom:\nLitfad Support <support@litfad.com>\nSent:\n30 December 2024 03:45\nTo:\nmaryam shahzad <sagheerrowing@hotmail.com>\nSubject:\nwe have dispatched your order 902810 from Litfad\nDear maryam shahzad,\nWe are happy to tell you we have dispatched your order #902810,\nitem#\n1 x 2203089679 Large Modern Drop Front Manufactured Wood Shoe Storage Cabinet - 100 x 24 x 120 cm\nshipping information:\nDestination Country: United Kingdom\nName: maryam shahzad\nZIP/Postal Code: E11 4RF\nPhone Number: +44 7428687030\nState/Province/Region: Greater London\nCity: London\nAddress Line 1: 2 Granleigh road\nAddress Line 2: Leytonstone\nFlight/Ship Information\nB/L: CSNU6219193\nCarrier: COSCO\nPort Of Departure: YANTIAN\nPort Of Destination: FELIXSTOWE\nFlight/ship NO.： OOCL UNITED KINGDOM 031W\nETA(Arrival at the Port Of Destination)：\n2025-01-11 00:00:00\nStatus:\nWarm tips:\nThe parcel will generally be delivered within 3-7 days after the customs clearance of the destination country is completed.\nTracking Number:\nBQIR4112700193\nTracking Url:\nhttp://www.17track.net\nLocal tracking information will be updated when they arrive at the local country(Segment C)\nDelivery description:\n1. Segment\nB\nis packed in containers for batch transfer. There may be a period of time that cannot be updated from time to time\n. The tracking number we provide is for segment C, so if there is no tracking information for a period of time, it is normal. When the parcel reaches the destination country, the final carrier will pick it up. The shipping information will be updated again.\n2. If this is the shopping season, the logistics companies are very busy and some orders may take slightly longer to arrive. If you have any questions or problems, contact  us directly for help.\nIf you have any questions, please contact us by replying to the email.\nLitfad Customer Service Team",
+                "time": "2025-02-21 00:09:51"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308368289",
+                "subject": "Re: Re: Re: we have dispatched your order 902810 from Litfad",
+                "content": "Dear\nsagheer\n,\nWe are looking for relevant colleagues to confirm or provide relevant information, and we will notify you when we have a reply.\nIf you don't receive our email within two working days, please send us an email again.\nRegards,\nLitfad\nFrom:\nsagheer shahzad <sagheerrowing@hotmail.com>\nDate:\n2025-02-21T00:09:51+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Re: we have dispatched your order 902810 from Litfad\nHi\nIt is really very disappointing as we have not received our order yet it is about  three month now we made our order and paid. Can you please let us know the reason of this and what we can expect now ? Thanks\nRegards\nM shahzad\nFrom:\nLitfad Support <support@litfad.com>\nSent:\n28 January 2025 22:35\nTo:\nsagheer shahzad <sagheerrowing@hotmail.com>\nSubject:\nRe: Re: we have dispatched your order 902810 from Litfad\nDear\nsagheer\n，\nThanks for shopping at our site!\nYou can check the progress of your order at any time.\nQuery Method：\n1. Open our website，click on \"Tracking Order\",  and enter \"Email Address\" and your order number.\n2. Or open the link  https://www.litfad.com/tracking，and enter \"Email Address\" and your order number\n3. We also have already searched for you, you can open the link\nhttps://www.litfad.com/tracking/order/902810/359cc936c7b68ef41c7957f333e4c4ff.html\nThanks.\nLitfad\nFrom:\nsagheer shahzad <sagheerrowing@hotmail.com>\nDate:\n2025-01-29T00:04:19+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: we have dispatched your order 902810 from Litfad\nHi\nwe have not received our order yet, it is realy upsetting we order this item more then two months ago and this was the only email i received from you which i am replying back, the tracking link you provide in email is unable to give any updates. So please give us the update asap or we may consider to cancel it.\nFrom:\nLitfad Support <support@litfad.com>\nSent:\n30 December 2024 03:45\nTo:\nmaryam shahzad <sagheerrowing@hotmail.com>\nSubject:\nwe have dispatched your order 902810 from Litfad\nDear maryam shahzad,\nWe are happy to tell you we have dispatched your order #902810,\nitem#\n1 x 2203089679 Large Modern Drop Front Manufactured Wood Shoe Storage Cabinet - 100 x 24 x 120 cm\nshipping information:\nDestination Country: United Kingdom\nName: maryam shahzad\nZIP/Postal Code: E11 4RF\nPhone Number: +44 7428687030\nState/Province/Region: Greater London\nCity: London\nAddress Line 1: 2 Granleigh road\nAddress Line 2: Leytonstone\nFlight/Ship Information\nB/L: CSNU6219193\nCarrier: COSCO\nPort Of Departure: YANTIAN\nPort Of Destination: FELIXSTOWE\nFlight/ship NO.： OOCL UNITED KINGDOM 031W\nETA(Arrival at the Port Of Destination)：\n2025-01-11 00:00:00\nStatus:\nWarm tips:\nThe parcel will generally be delivered within 3-7 days after the customs clearance of the destination country is completed.\nTracking Number:\nBQIR4112700193\nTracking Url:\nhttp://www.17track.net\nLocal tracking information will be updated when they arrive at the local country(Segment C)\nDelivery description:\n1. Segment\nB\nis packed in containers for batch transfer. There may be a period of time that cannot be updated from time to time\n. The tracking number we provide is for segment C, so if there is no tracking information for a period of time, it is normal. When the parcel reaches the destination country, the final carrier will pick it up. The shipping information will be updated again.\n2. If this is the shopping season, the logistics companies are very busy and some orders may take slightly longer to arrive. If you have any questions or problems, contact  us directly for help.\nIf you have any questions, please contact us by replying to the email.\nLitfad Customer Service Team",
+                "time": "2025-02-21 03:30:12"
+            },
+            {
+                "email_id": "308378748",
+                "subject": "Re: Re: Re: we have dispatched your order 902810 from Litfad",
+                "content": "Dear\nsagheer\n,\nSorry for the delay.\nYour order  has  arrived at  your  country.\nPls wait for 5-7 days , your package will arrive soon.Pls pay attention to the carrier 's call.\nSometimes the transportation might be unusually slow because of the force majeure like, bad weather, custom clearance, delivery problem, etc.\nBut we will keep tracking the shipping status for you.\nYour patience is much appreciated.\nRegards,\nLitfad\nFrom:\nsagheer shahzad <sagheerrowing@hotmail.com>\nDate:\n2025-02-21T00:09:51+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Re: we have dispatched your order 902810 from Litfad\nHi\nIt is really very disappointing as we have not received our order yet it is about  three month now we made our order and paid. Can you please let us know the reason of this and what we can expect now ? Thanks\nRegards\nM shahzad\nFrom:\nLitfad Support <support@litfad.com>\nSent:\n28 January 2025 22:35\nTo:\nsagheer shahzad <sagheerrowing@hotmail.com>\nSubject:\nRe: Re: we have dispatched your order 902810 from Litfad\nDear\nsagheer\n，\nThanks for shopping at our site!\nYou can check the progress of your order at any time.\nQuery Method：\n1. Open our website，click on \"Tracking Order\",  and enter \"Email Address\" and your order number.\n2. Or open the link  https://www.litfad.com/tracking，and enter \"Email Address\" and your order number\n3. We also have already searched for you, you can open the link\nhttps://www.litfad.com/tracking/order/902810/359cc936c7b68ef41c7957f333e4c4ff.html\nThanks.\nLitfad\nFrom:\nsagheer shahzad <sagheerrowing@hotmail.com>\nDate:\n2025-01-29T00:04:19+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: we have dispatched your order 902810 from Litfad\nHi\nwe have not received our order yet, it is realy upsetting we order this item more then two months ago and this was the only email i received from you which i am replying back, the tracking link you provide in email is unable to give any updates. So please give us the update asap or we may consider to cancel it.\nFrom:\nLitfad Support <support@litfad.com>\nSent:\n30 December 2024 03:45\nTo:\nmaryam shahzad <sagheerrowing@hotmail.com>\nSubject:\nwe have dispatched your order 902810 from Litfad\nDear maryam shahzad,\nWe are happy to tell you we have dispatched your order #902810,\nitem#\n1 x 2203089679 Large Modern Drop Front Manufactured Wood Shoe Storage Cabinet - 100 x 24 x 120 cm\nshipping information:\nDestination Country: United Kingdom\nName: maryam shahzad\nZIP/Postal Code: E11 4RF\nPhone Number: +44 7428687030\nState/Province/Region: Greater London\nCity: London\nAddress Line 1: 2 Granleigh road\nAddress Line 2: Leytonstone\nFlight/Ship Information\nB/L: CSNU6219193\nCarrier: COSCO\nPort Of Departure: YANTIAN\nPort Of Destination: FELIXSTOWE\nFlight/ship NO.： OOCL UNITED KINGDOM 031W\nETA(Arrival at the Port Of Destination)：\n2025-01-11 00:00:00\nStatus:\nWarm tips:\nThe parcel will generally be delivered within 3-7 days after the customs clearance of the destination country is completed.\nTracking Number:\nBQIR4112700193\nTracking Url:\nhttp://www.17track.net\nLocal tracking information will be updated when they arrive at the local country(Segment C)\nDelivery description:\n1. Segment\nB\nis packed in containers for batch transfer. There may be a period of time that cannot be updated from time to time\n. The tracking number we provide is for segment C, so if there is no tracking information for a period of time, it is normal. When the parcel reaches the destination country, the final carrier will pick it up. The shipping information will be updated again.\n2. If this is the shopping season, the logistics companies are very busy and some orders may take slightly longer to arrive. If you have any questions or problems, contact  us directly for help.\nIf you have any questions, please contact us by replying to the email.\nLitfad Customer Service Team",
+                "time": "2025-02-22 00:26:42"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518605",
+            "real_order_id": "360518605",
+            "order_time": "2025-02-12 11:31:17",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518605",
+            "carrier": "USPS",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:17",
+            "tracking_url": "https://tools.usps.com/go/TrackConfirmAction?tLabels=tracking_number_360518605"
+        },
+        "llm_response": {
+            "reply": "",
+            "reply_level": 1,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "客户需要知道订单为何还未到达的原因及现状，而当前的信息只提供了订单的运输状况，并没有解释延迟的原因或提供解决方案。",
+            "analysis_summary": null,
+            "cost": 0.006998399999999999
+        }
+    },
+    {
+        "service_id": "360518614",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367340",
+                "subject": "Re: Order 995834 Confirmation",
+                "content": "Hello I’d like to understand this shipment please. It’s been weeks and I see it’s just leaving a Chinese port now? Is that correct or is it flying here?\nIf it’s maritime that’s min 1 month plus customs and plus 10 days to drive to Miami?\nWhat is the timeframe please?\nAll Best,\nMichael Capponi\nOn Feb 19, 2025, at 9:02 AM, Litfad Support <support@litfad.com> wrote:\n﻿\nDear\nMichael\n,\nHello, I have submitted the package interception application for you. Please wait for 1-2 days and see if it gets intercepted.\nRegards,\nLitfad\nFrom:\nMichael Capponi <mc@solgroupglobal.com>\nDate:\n2025-02-17T20:11:05+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Order 995834 Confirmation\nHi I only needed 63 inches of cabinets not 85 inches.  I pressed the wrong one. The picture on website showed 3 sets.  But apparently I ordered 6 sets.\nSo what do I need to return the other sets? I won’t open the boxes.\nWith Sincerity,\nMichael Capponi\nOn Feb 17, 2025, at 3:55 AM, Litfad Support <support@litfad.com> wrote:\nDear\nMichael\n,\nI found out from the records here that you placed an order for a bookcase. What do you mean by \"return half\"?\nRegards,\nLitfad\nFrom:\nMichael Capponi <mc@solgroupglobal.com>\nDate:\n2025-02-16T09:25:23+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Order 995834 Confirmation\nI may just only need half the order. Can I ship back over half and get refunded on that?\nWith Sincerity,\nMichael Capponi\nOn Feb 15, 2025, at 5:05 PM, Michael Capponi <mc@solgroupglobal.com> wrote:\nHi sorry but we need to return this item. What do we do please?\nWith Sincerity,\nMichael Capponi\nOn Jan 29, 2025, at 12:41 AM, Litfad Support <support@litfad.com> wrote:\nDear michael capponi:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n2127 Brickell Ave #1704 , Michael Capponi\nMiami, Florida 33129\nUnited States\n+1 7862012348\nBilling Address:\n2127 Brickell Ave #1704 , Michael Capponi\nMiami, Florida 33129\nUnited States\n+1 7862012348\nYour order Number is:\n995834\n; You can\nclick here\nto view more details.\nProducts\nAmount\nBrown Wood Vertical Bookcase with Transparent Glass Door and 5 Shelves - 6 87\"L x 13\"W x 79\"H\n6, 87\"L x 13\"W x 79\"H\nQTY:1  SKU:2201772631\n$1,572.24\nOrder Grand Total:\nPrice:\n$1,572.24\nShipping Price:\n$200.00\nInsurance:\n$2.99\nTotal:\n$1,775.23\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 00:21:40"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308367873",
+                "subject": "Re: Re: Order 995834 Confirmation",
+                "content": "Dear\nMichael\n,\nThe  tracking  site  is  just  not  updated  yet.\nYour order has just arrived at the port and is being waiting for customs clearance, please wait patiently.\nAnd the transportation might be unusually slow because of the force majeure like, bad weather, custom clearance, delivery problem, etc. But we will keep tracking the shipping status for you.\nThe expected  delivery  date  is  around  the  late March .\nYour patience is much appreciated.\nRegards,\nLitfad\nFrom:\nMichael Capponi <mc@capponigroup.com>\nDate:\n2025-02-21T00:21:40+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Order 995834 Confirmation\nHello I’d like to understand this shipment please. It’s been weeks and I see it’s just leaving a Chinese port now? Is that correct or is it flying here?\nIf it’s maritime that’s min 1 month plus customs and plus 10 days to drive to Miami?\nWhat is the timeframe please?\nAll Best,\nMichael Capponi\nOn Feb 19, 2025, at 9:02 AM, Litfad Support <support@litfad.com> wrote:\nDear\nMichael\n,\nHello, I have submitted the package interception application for you. Please wait for 1-2 days and see if it gets intercepted.\nRegards,\nLitfad\nFrom:\nMichael Capponi <mc@solgroupglobal.com>\nDate:\n2025-02-17T20:11:05+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Order 995834 Confirmation\nHi I only needed 63 inches of cabinets not 85 inches.  I pressed the wrong one. The picture on website showed 3 sets.  But apparently I ordered 6 sets.\nSo what do I need to return the other sets? I won’t open the boxes.\nWith Sincerity,\nMichael Capponi\nOn Feb 17, 2025, at 3:55 AM, Litfad Support <support@litfad.com> wrote:\nDear\nMichael\n,\nI found out from the records here that you placed an order for a bookcase. What do you mean by \"return half\"?\nRegards,\nLitfad\nFrom:\nMichael Capponi <mc@solgroupglobal.com>\nDate:\n2025-02-16T09:25:23+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Order 995834 Confirmation\nI may just only need half the order. Can I ship back over half and get refunded on that?\nWith Sincerity,\nMichael Capponi\nOn Feb 15, 2025, at 5:05 PM, Michael Capponi <mc@solgroupglobal.com> wrote:\nHi sorry but we need to return this item. What do we do please?\nWith Sincerity,\nMichael Capponi\nOn Jan 29, 2025, at 12:41 AM, Litfad Support <support@litfad.com> wrote:\nDear michael capponi:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n2127 Brickell Ave #1704 , Michael Capponi\nMiami, Florida 33129\nUnited States\n+1 7862012348\nBilling Address:\n2127 Brickell Ave #1704 , Michael Capponi\nMiami, Florida 33129\nUnited States\n+1 7862012348\nYour order Number is:\n995834\n; You can\nclick here\nto view more details.\nProducts\nAmount\nBrown Wood Vertical Bookcase with Transparent Glass Door and 5 Shelves - 6 87\"L x 13\"W x 79\"H\n6, 87\"L x 13\"W x 79\"H\nQTY:1  SKU:2201772631\n$1,572.24\nOrder Grand Total:\nPrice:\n$1,572.24\nShipping Price:\n$200.00\nInsurance:\n$2.99\nTotal:\n$1,775.23\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 02:10:30"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518614",
+            "real_order_id": "360518614",
+            "order_time": "2025-02-12 11:31:20",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518614",
+            "carrier": "UPS",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:20",
+            "tracking_url": "https://www.ups.com/track?loc=zh_CN&tracknum=tracking_number_360518614"
+        },
+        "llm_response": {
+            "reply": "",
+            "reply_level": 1,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "顾客询问关于运输方式和时间框架的问题，需要确认货物是通过海运还是空运发往目的地，以及准确的运输时间表。同时，他们质疑当前的物流信息是否正确。",
+            "analysis_summary": null,
+            "cost": 0.006743999999999999
+        }
+    },
+    {
+        "service_id": "360518617",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367350",
+                "subject": "Re: Subject： Re: Re: Subject： Order reminder- Your order from Litfad",
+                "content": "That's great, thank you.\nOn Wed, Feb 19, 2025, 4:49 PM Lakiq Support <\nsupport@lakiq.com\n> wrote:\nDear\nDestiny\n,\nThe replacement application has just been approved.\nWe are processing your replacement and will ship it out ASAP. We will notify you the tracking number via email after it's dispatched.\nThanks for shopping on our website. Have a good time.\nRegards,\nLakiq\nFrom:\nDestiny Perez <\nperezdestiny11216@gmail.com\n>\nDate:\n2025-02-19T23:51:47+0800\nTo:\nLakiq Support <\nsupport@lakiq.com\n>\nSubject:\nno subject\nHello any update on my order?",
+                "time": "2025-02-21 00:24:15"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308371942",
+                "subject": "Re: Re: Subject： Re: Re: Subject： Order reminder- Your order 775825 from Litfad",
+                "content": "Dear\nDestiny\n,\nThanks for shopping on our website. If you have any questions, please feel free to contact us. Have a good time.\nRegards,\nLakiq\nFrom:\nDestiny Perez <perezdestiny11216@gmail.com>\nDate:\n2025-02-21T00:24:15+0800\nTo:\nLakiq Support <support@lakiq.com>\nSubject:\nRe: Subject： Re: Re: Subject： Order reminder- Your order from Litfad\nThat's great, thank you.\nOn Wed, Feb 19, 2025, 4:49 PM Lakiq Support <\nsupport@lakiq.com\n> wrote:\nDear\nDestiny\n,\nThe replacement application has just been approved.\nWe are processing your replacement and will ship it out ASAP. We will notify you the tracking number via email after it's dispatched.\nThanks for shopping on our website. Have a good time.\nRegards,\nLakiq\nFrom:\nDestiny Perez <\nperezdestiny11216@gmail.com\n>\nDate:\n2025-02-19T23:51:47+0800\nTo:\nLakiq Support <\nsupport@lakiq.com\n>\nSubject:\nno subject\nHello any update on my order?",
+                "time": "2025-02-21 11:42:22"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518617",
+            "real_order_id": "360518617",
+            "order_time": "2025-02-12 11:31:23",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518617",
+            "carrier": "DHL",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:23",
+            "tracking_url": "https://www.dhl.com/cn-zh/home/tracking.html?submit=1&tracking-id=tracking_number_360518617"
+        },
+        "llm_response": {
+            "reply": "",
+            "reply_level": 1,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "顾客询问订单的最新动态，邮件中提到的替换申请已批准，服务单信息中只提供了原始订单的信息，未提供替换订单的详细信息和状态。",
+            "analysis_summary": null,
+            "cost": 0.0039096
+        }
+    },
+    {
+        "service_id": "360518618",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367356",
+                "subject": "Re: Order 953074 Confirmation",
+                "content": "Where is it ??\nEnvoyé de mon iPhone\nLe 29 déc. 2024 à 20:02, Litfad Support <support@litfad.com> a écrit :\n﻿\nDear Marie Mience:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n6 Rue de la Durance , Marie Mience\nParis, Paris 75012\nFrance\n+33 615437901\nBilling Address:\n6 Rue de la Durance , Marie Mience\nParis, Paris 75012\nFrance\n+33 615437901\nYour order Number is:\n953074\n; You can\nclick here\nto view more details.\nProducts\nAmount\nBibliothèque pour enfants en bois massif naturel pivotante contemporaine - L 50 x l 50 x H 95 cm Beige Naturel\nL 50 x l 50 x H 95 cm, Beige Naturel\nQTY:1  SKU:2200690240\n161,48 €\nOrder Grand Total:\nPrix:\n161,48 €\nFrais de Livraison:\n4,90 €\nTotal:\n166,38 €\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 00:24:46"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308368290",
+                "subject": "Re: Re: Order 953074 Confirmation",
+                "content": "Dear\nMarie\n，\nThanks for shopping at our site!\nYou can check the progress of your order at any time.\nQuery Method：\n1. Open our website，click on \"Tracking Order\",  and enter \"Email Address\" and your order number.\n2. Or open the link  https://www.litfad.com/tracking，and enter \"Email Address\" and your order number\n3. We also have already searched for you, you can open the link\nhttps://www.litfad.com/fr/tracking/order/953074/9d8f0f7cd3bfb3e9bfadec7aa6c82175.html\nThanks.\nLitfad\nFrom:\nMarie MIENCE <marie.mience@gmail.com>\nDate:\n2025-02-21T00:24:46+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nRe: Order 953074 Confirmation\nWhere is it ??\nEnvoyé de mon iPhone\nLe 29 déc. 2024 à 20:02, Litfad Support <support@litfad.com> a écrit :\nDear Marie Mience:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n6 Rue de la Durance , Marie Mience\nParis, Paris 75012\nFrance\n+33 615437901\nBilling Address:\n6 Rue de la Durance , Marie Mience\nParis, Paris 75012\nFrance\n+33 615437901\nYour order Number is:\n953074\n; You can\nclick here\nto view more details.\nProducts\nAmount\nBibliothèque pour enfants en bois massif naturel pivotante contemporaine - L 50 x l 50 x H 95 cm Beige Naturel\nL 50 x l 50 x H 95 cm, Beige Naturel\nQTY:1  SKU:2200690240\n161,48 €\nOrder Grand Total:\nPrix:\n161,48 €\nFrais de Livraison:\n4,90 €\nTotal:\n166,38 €\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.litfad.com",
+                "time": "2025-02-21 03:30:52"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518618",
+            "real_order_id": "360518618",
+            "order_time": "2025-02-12 11:31:27",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518618",
+            "carrier": "EMS",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:27",
+            "tracking_url": "https://www.ems.com.cn/queryList?mailNum=tracking_number_360518618"
+        },
+        "llm_response": {
+            "reply": "Chère Marie,\n\nMerci de nous avoir contactés au sujet de votre commande. Je suis heureux de vous informer que votre commande, numéro 953074, a été expédiée et est actuellement en transit. Le colis est en route vers l'adresse de livraison que vous avez fournie : 6 Rue de la Durance, 75012 Paris, France.\n\nLe transporteur EMS est chargé de la livraison et vous pouvez suivre votre colis en temps réel en utilisant le lien suivant : [Suivi de colis EMS](https://www.ems.com.cn/queryList?mailNum=tracking_number_360518618).\n\nSelon nos informations, la livraison est estimée pour le 18 avril 2025. Votre commande a été expédiée le 13 février 2025, et la dernière mise à jour indique qu'elle se trouve actuellement au centre logistique de Shanghai.\n\nSi vous avez d'autres questions ou préoccupations, n'hésitez pas à nous le faire savoir. Nous sommes là pour vous aider !\n\nCordialement,\n\nLitfad Customer Care\nlitfad.com",
+            "reply_level": 2,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "",
+            "analysis_summary": null,
+            "cost": 0.008354399999999998
+        }
+    },
+    {
+        "service_id": "360518620",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367361",
+                "subject": "Commande 1022830",
+                "content": "Bonjour,\nNous souhaitons etre livré pour cette commande 1022830 entre le 20 mars 2025 et le 2 avril 2025.\nC'est la condition absolue pour que nous confirmions la commande.\nQuel est le prix de la livraison express et vers quelle date peut-on etre livré?\nC'est pour monter au 6ème étage (ascenceur) et passer par une porte de largueur 80cm maxi.\nNous vous remercions de votre réponse.\nCordiaiement\nMr BOUSSET\nIl s'agit de la Table basse rectangulaire de style nordique en bois massif avec pieds croisés - L 140 x l 70 x H 45 cm en bois naturel clair.",
+                "time": "2025-02-21 00:26:58"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308371943",
+                "subject": "Re: Commande 1022830",
+                "content": "Dear\nSCI\n,\nAir transport can be delivered quickly, and there are special people to deliver to the stairs.\nRegards,\nLitfad\nFrom:\nSCI HBS <scihbs@hotmail.fr>\nDate:\n2025-02-21T00:26:58+0800\nTo:\nLitfad Support <support@litfad.com>\nSubject:\nCommande 1022830\nBonjour,\nNous souhaitons etre livré pour cette commande 1022830 entre le 20 mars 2025 et le 2 avril 2025.\nC'est la condition absolue pour que nous confirmions la commande.\nQuel est le prix de la livraison express et vers quelle date peut-on etre livré?\nC'est pour monter au 6ème étage (ascenceur) et passer par une porte de largueur 80cm maxi.\nNous vous remercions de votre réponse.\nCordiaiement\nMr BOUSSET\nIl s'agit de la Table basse rectangulaire de style nordique en bois massif avec pieds croisés - L 140 x l 70 x H 45 cm en bois naturel clair.",
+                "time": "2025-02-21 11:42:27"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518620",
+            "real_order_id": "360518620",
+            "order_time": "2025-02-12 11:31:36",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518620",
+            "carrier": "FedEx",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:36",
+            "tracking_url": "https://www.fedex.com/fedextrack/?trknbr=tracking_number_360518620"
+        },
+        "llm_response": {
+            "reply": "",
+            "reply_level": 1,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "顾客询问的具体订单（编号1022830）的快速配送费用和可能的送达日期信息缺失。此外，顾客的问题涉及送货地点的特殊要求（电梯和门宽），这些信息在当前服务单信息中均没有提供。",
+            "analysis_summary": null,
+            "cost": 0.0037511999999999997
+        }
+    },
+    {
+        "service_id": "360518621",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367367",
+                "subject": "Re: Re: Order 781974 Confirmation",
+                "content": "This is what I get when I track my order. What does it mean? I am looking to see when my shipment will arrive. Thanks!\nOrder No.781974\nWarehouse Stocking\n2025-02-18 02:51:35\nParcel is shipped, and tracking number is Metropolitan:BQJA5021700014\n2025-02-18 02:51:35\nParcel is shipped, and tracking number is Metropolitan:BQJA5021700014\n2025-02-18 02:51:35\nWaiting for shipment\n2025-02-17 13:51:33\nPackaging completed\n2025-02-16 12:56:08\nWarehouse is arranging orders for shipment.\n2025-02-04 04:14:50\nPayment Successful. Pay By Credit Card. Transaction Id: ********\n2025-02-04 04:04:44\nPlace Order\n2025-02-04 04:03:20\nCheers,\nDawn\nDawn Wilmot\nExecutive Assistant, PEC\nThe Piedmont Environmental Council\n45 Horner Street\nWarrenton, Va. 20186\n540-347-2334 Ext. 7090\nhttps://pecva.org/give\nContributions like yours make the work PEC does possible. Become a member or donate today to continue to\nrestore and protect this beautiful place we love!\nOn Thu, Feb 20, 2025 at 11:04 AM Lakiq Support <\nsupport@lakiq.com\n> wrote:\nDear\nDawn\n，\nThanks for shopping at our site!\nYou can check the progress of your order at any time.\nQuery Method：\n1. Open our website，click on \"Tracking Order\",  and enter \"Email Address\" and your order number.\n2. Or open the link\nhttps://www.litfad.com/tracking\n，and enter \"Email Address\" and your order number\n3. We also have already searched for you, you can open the link\nhttps://www.lakiq.com/tracking/order/781974/5efd74b51cac1bf0e6de345130062481.html\nThanks.\nLakiq\nFrom:\nDawn Wilmot <\ndwilmot@pecva.org\n>\nDate:\n2025-02-20T23:59:39+0800\nTo:\nLakiq Support <\nsupport@lakiq.com\n>\nSubject:\nRe: Order 781974 Confirmation\nHello,\nOrder number 781974. I am trying to track my shipment through Metropolitain Shipping and they are asking for a 12 digit tracking number, the number I was provided is 10 digits.\nCheers,\nDawn\nDawn Wilmot\nExecutive Assistant, PEC\nThe Piedmont Environmental Council\n45 Horner Street\nWarrenton, Va. 20186\n540-347-2334 Ext. 7090\nhttps://pecva.org/give\nContributions like yours make the work PEC does possible. Become a member or donate today to continue to\nrestore and protect this beautiful place we love!\nOn Mon, Feb 3, 2025 at 3:04 PM Lakiq Support <\nsupport@lakiq.com\n> wrote:\nDear Dawn Wilmot:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n45 Horner Street , Dawn Wilmot\nWarrenton, Virginia 20186\nUnited States\n+1 5402709039\nBilling Address:\n45 Horner Street , Dawn Wilmot\nWarrenton, Virginia 20186\nUnited States\n+1 5402709039\nYour order Number is:\n781974\n; You can\nclick here\nto view more details.\nProducts\nAmount\nNatural Solid Wood Industrial Rectangular Pub Table with Metal Trestle Base - 86.6\"L x 15.7\"W x 41.3\"H Table Only\n86.6\"L x 15.7\"W x 41.3\"H, Table Only\nQTY:1  SKU:2203483897\n$684.86\nOrder Grand Total:\nPrice:\n$684.86\nShipping Price:\n$216.83\nInsurance:\n$2.99\nTotal:\n$904.68\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.lakiq.com",
+                "time": "2025-02-21 00:27:36"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308367904",
+                "subject": "Order reminder- Your order   from Litfad",
+                "content": "Dear\nDawn\n，\nThe expected  delivery  date  is  around  the  middle March .\nYour patience is much appreciated.\nSometimes the transportation might be unusually slow because of the force majeure like, bad weather, custom clearance, delivery problem, etc.\nBut we will keep tracking the shipping status for you.\nYour patience is much appreciated.\nSincerely yours,\nLakiq\nFrom:\nDawn Wilmot <dwilmot@pecva.org>\nDate:\n2025-02-21T00:27:36+0800\nTo:\nLakiq Support <support@lakiq.com>\nSubject:\nRe: Re: Order 781974 Confirmation\nThis is what I get when I track my order. What does it mean? I am looking to see when my shipment will arrive. Thanks!\nOrder No.781974\nWarehouse Stocking\n2025-02-18 02:51:35\nParcel is shipped, and tracking number is Metropolitan:BQJA5021700014\n2025-02-18 02:51:35\nParcel is shipped, and tracking number is Metropolitan:BQJA5021700014\n2025-02-18 02:51:35\nWaiting for shipment\n2025-02-17 13:51:33\nPackaging completed\n2025-02-16 12:56:08\nWarehouse is arranging orders for shipment.\n2025-02-04 04:14:50\nPayment Successful. Pay By Credit Card. Transaction Id: ********\n2025-02-04 04:04:44\nPlace Order\n2025-02-04 04:03:20\nCheers,\nDawn\nDawn Wilmot\nExecutive Assistant, PEC\nThe Piedmont Environmental Council\n45 Horner Street\nWarrenton, Va. 20186\n540-347-2334 Ext. 7090\nhttps://pecva.org/give\nContributions like yours make the work PEC does possible. Become a member or donate today to continue to\nrestore and protect this beautiful place we love!\nOn Thu, Feb 20, 2025 at 11:04 AM Lakiq Support <\nsupport@lakiq.com\n> wrote:\nDear\nDawn\n，\nThanks for shopping at our site!\nYou can check the progress of your order at any time.\nQuery Method：\n1. Open our website，click on \"Tracking Order\",  and enter \"Email Address\" and your order number.\n2. Or open the link\nhttps://www.litfad.com/tracking\n，and enter \"Email Address\" and your order number\n3. We also have already searched for you, you can open the link\nhttps://www.lakiq.com/tracking/order/781974/5efd74b51cac1bf0e6de345130062481.html\nThanks.\nLakiq\nFrom:\nDawn Wilmot <\ndwilmot@pecva.org\n>\nDate:\n2025-02-20T23:59:39+0800\nTo:\nLakiq Support <\nsupport@lakiq.com\n>\nSubject:\nRe: Order 781974 Confirmation\nHello,\nOrder number 781974. I am trying to track my shipment through Metropolitain Shipping and they are asking for a 12 digit tracking number, the number I was provided is 10 digits.\nCheers,\nDawn\nDawn Wilmot\nExecutive Assistant, PEC\nThe Piedmont Environmental Council\n45 Horner Street\nWarrenton, Va. 20186\n540-347-2334 Ext. 7090\nhttps://pecva.org/give\nContributions like yours make the work PEC does possible. Become a member or donate today to continue to\nrestore and protect this beautiful place we love!\nOn Mon, Feb 3, 2025 at 3:04 PM Lakiq Support <\nsupport@lakiq.com\n> wrote:\nDear Dawn Wilmot:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\n45 Horner Street , Dawn Wilmot\nWarrenton, Virginia 20186\nUnited States\n+1 5402709039\nBilling Address:\n45 Horner Street , Dawn Wilmot\nWarrenton, Virginia 20186\nUnited States\n+1 5402709039\nYour order Number is:\n781974\n; You can\nclick here\nto view more details.\nProducts\nAmount\nNatural Solid Wood Industrial Rectangular Pub Table with Metal Trestle Base - 86.6\"L x 15.7\"W x 41.3\"H Table Only\n86.6\"L x 15.7\"W x 41.3\"H, Table Only\nQTY:1  SKU:2203483897\n$684.86\nOrder Grand Total:\nPrice:\n$684.86\nShipping Price:\n$216.83\nInsurance:\n$2.99\nTotal:\n$904.68\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.lakiq.com",
+                "time": "2025-02-21 02:16:52"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518621",
+            "real_order_id": "360518621",
+            "order_time": "2025-02-12 11:31:45",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518621",
+            "carrier": "default",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:45",
+            "tracking_url": "https://www.17track.net?nums=tracking_number_360518621"
+        },
+        "llm_response": {
+            "reply": "",
+            "reply_level": 1,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "顾客提到的订单号781974 和目前的服务单信息不匹配，需要确认订单号781974的详细信息以及正确的配送信息和追踪详情。",
+            "analysis_summary": null,
+            "cost": 0.007528799999999999
+        }
+    },
+    {
+        "service_id": "360518622",
+        "latest_customer_emails": [
+            {
+                "email_id": "308367371",
+                "subject": "AW: Order 721645 Confirmation",
+                "content": "Hello,\nmy order seems to be in Rotterdam since the 8th of february. Could you please tell me where it's now an when it will arrive at my place?\nBest regards\nAlex\nGesendet von AOL auf Android\nAm Do., Dez. 19, 2024 at 20:05 schrieb Kwoking Support\n<support@kwoking.com>:\nDear Alexandra Lehnert:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\nNarzissenstraße 24 , Alexandra Lehnert\nFürth, Bavaria 90768\nGermany\n+49 1632643734\nBilling Address:\nNarzissenstraße 24 , Alexandra Lehnert\nFürth, Bavaria 90768\nGermany\n+49 1632643734\nYour order Number is:\n721645\n; You can\nclick here\nto view more details.\nProducts\nAmount\nNordischer Stil Macron Kronleuchter Bunte Glas Pendelleuchten für Kinderzimmer - 220V-240V 8\n220V-240V, 8\nQTY:1  SKU:224661541\n228,11 €\nOrder Grand Total:\nPreis:\n228,11 €\nVersandkosten:\n4,05 €\nGesamtpreis:\n232,16 €\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.kwoking.com",
+                "time": "2025-02-21 00:29:46"
+            }
+        ],
+        "latest_service_emails": [
+            {
+                "email_id": "308368299",
+                "subject": "Re: AW: Order 721645 Confirmation",
+                "content": "Dear\nsandischmidtke@aol.com\n,\nThe  tracking  site  is  just  not  updated  yet.\nYour order has just arrived at the port and is being waiting for customs clearance, please wait patiently.\nAnd the transportation might be unusually slow because of the force majeure like, bad weather, custom clearance, delivery problem, etc. But we will keep tracking the shipping status for you.\nThe expected  delivery  date  is  around  the  middle March .\nYour patience is much appreciated.\nRegards,\nKwoking\nFrom:\nsandischmidtke@aol.com <sandischmidtke@aol.com>\nDate:\n2025-02-21T00:29:46+0800\nTo:\nKwoking Support <Support@kwoking.com>\nSubject:\nAW: Order 721645 Confirmation\nHello,\nmy order seems to be in Rotterdam since the 8th of february. Could you please tell me where it's now an when it will arrive at my place?\nBest regards\nAlex\nGesendet von AOL auf Android\nAm Do., Dez. 19, 2024 at 20:05 schrieb Kwoking Support\n<support@kwoking.com>:\nDear Alexandra Lehnert:\nThanks for your order, we hope you had a good time shopping with us. Your order is now being processed, according to your order Order reserved address, we will deliver your merchandise to:\nShipping Address:\nNarzissenstraße 24 , Alexandra Lehnert\nFürth, Bavaria 90768\nGermany\n+49 1632643734\nBilling Address:\nNarzissenstraße 24 , Alexandra Lehnert\nFürth, Bavaria 90768\nGermany\n+49 1632643734\nYour order Number is:\n721645\n; You can\nclick here\nto view more details.\nProducts\nAmount\nNordischer Stil Macron Kronleuchter Bunte Glas Pendelleuchten für Kinderzimmer - 220V-240V 8\n220V-240V, 8\nQTY:1  SKU:224661541\n228,11 €\nOrder Grand Total:\nPreis:\n228,11 €\nVersandkosten:\n4,05 €\nGesamtpreis:\n232,16 €\nIf you have any question, please feel free to contact us, we’re glad to hearing from you.\nSincerely,\nCustomer Care\nwww.kwoking.com",
+                "time": "2025-02-21 03:31:34"
+            }
+        ],
+        "order_info": {
+            "order_id": "360518622",
+            "real_order_id": "360518622",
+            "order_time": "2025-02-12 11:31:49",
+            "order_website": "litfad.com",
+            "pay_method": "Paypal",
+            "shipping_method": "标准配送",
+            "order_status": "已发货",
+            "shipping_status": "运输中",
+            "estimated_delivery_time": "2025-04-18",
+            "fund_status": "已支付"
+        },
+        "shipping_info": {
+            "tracking_number": "tracking_number_360518622",
+            "carrier": "USPS",
+            "shipping_status": "运输中",
+            "current_location": "上海物流中心",
+            "estimated_delivery_time": "2025-04-18",
+            "shipping_date": "2025-02-13",
+            "last_update": "2025-03-01 11:31:49",
+            "tracking_url": "https://tools.usps.com/go/TrackConfirmAction?tLabels=tracking_number_360518622"
+        },
+        "llm_response": {
+            "reply": "",
+            "reply_level": 1,
+            "service_type": "信息咨询类",
+            "service_stage": "问题确认",
+            "intervention_reson": "顾客问询包裹目前位置和预计到达时间。尽管服务单提供了物流的当前资料以及预计的送达时间，但电子邮件中提到包裹在2月8日曾经位于鹿特丹，可能顾客期望获得更新的物流信息，验证是否有变化。这部分信息目前服务单中并未提及，因此无法准确回答顾客请求。",
+            "analysis_summary": null,
+            "cost": 0.0049223999999999995
+        }
+    }
+]

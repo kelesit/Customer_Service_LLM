@@ -1,0 +1,19 @@
+# 物流查询网址
+tracking_url:
+  # 国际物流承运商
+  DHL: "https://www.dhl.com/cn-zh/home/tracking.html?submit=1&tracking-id={tracking_number}"
+  FedEx: "https://www.fedex.com/fedextrack/?trknbr={tracking_number}"
+  UPS: "https://www.ups.com/track?loc=zh_CN&tracknum={tracking_number}"
+  USPS: "https://tools.usps.com/go/TrackConfirmAction?tLabels={tracking_number}"
+  EMS: "https://www.ems.com.cn/queryList?mailNum={tracking_number}"
+  
+  # 国内物流承运商
+  顺丰: "https://www.sf-express.com/cn/sc/dynamic_function/waybill/#search/bill-number/{tracking_number}"
+  中通: "https://www.zto.com/express/expressCheck.html?txtBill={tracking_number}"
+  圆通: "https://www.yto.net.cn/gzquery.html?number={tracking_number}"
+  申通: "https://www.sto.cn/query/sto-trace?mailNo={tracking_number}"
+  韵达: "https://www.yundaex.com/cn/tracking?mailNo={tracking_number}"
+  
+  # 默认查询网址（当找不到对应的承运商时使用）
+  default: "https://www.17track.net?nums={tracking_number}"
+

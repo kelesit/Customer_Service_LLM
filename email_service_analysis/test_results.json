@@ -1,0 +1,1806 @@
+{
+    "360460907": {
+        "service_id": 360460907,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360471197": {
+        "service_id": 360471197,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360459249": {
+        "service_id": 360459249,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360512359": {
+        "service_id": 360512359,
+        "auto_type": "售后-物流退回",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360495869": {
+        "service_id": 360495869,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "email_data_error"
+    },
+    "360479998": {
+        "service_id": 360479998,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360496137": {
+        "service_id": 360496137,
+        "auto_type": "售后-信息解答",
+        "modified_type": "感谢语",
+        "predict_type": "售后-客户主观不满意"
+    },
+    "360474458": {
+        "service_id": 360474458,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360481604": {
+        "service_id": 360481604,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360498022": {
+        "service_id": 360498022,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-质量问题"
+    },
+    "360474837": {
+        "service_id": 360474837,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360490919": {
+        "service_id": 360490919,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360476228": {
+        "service_id": 360476228,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360466949": {
+        "service_id": 360466949,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360508382": {
+        "service_id": 360508382,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-取消订单",
+        "predict_type": "email_data_error"
+    },
+    "360508748": {
+        "service_id": 360508748,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360479656": {
+        "service_id": 360479656,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360491061": {
+        "service_id": 360491061,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-物流破损"
+    },
+    "360477206": {
+        "service_id": 360477206,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360491765": {
+        "service_id": 360491765,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360479723": {
+        "service_id": 360479723,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360473381": {
+        "service_id": 360473381,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360468751": {
+        "service_id": 360468751,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360466443": {
+        "service_id": 360466443,
+        "auto_type": "售前",
+        "modified_type": "广告",
+        "predict_type": "广告"
+    },
+    "360467918": {
+        "service_id": 360467918,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360468096": {
+        "service_id": 360468096,
+        "auto_type": "售后",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-质量问题"
+    },
+    "360504247": {
+        "service_id": 360504247,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360468664": {
+        "service_id": 360468664,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360479369": {
+        "service_id": 360479369,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360464329": {
+        "service_id": 360464329,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360479160": {
+        "service_id": 360479160,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360492747": {
+        "service_id": 360492747,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360510747": {
+        "service_id": 360510747,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360493219": {
+        "service_id": 360493219,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360484867": {
+        "service_id": 360484867,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360481000": {
+        "service_id": 360481000,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360494652": {
+        "service_id": 360494652,
+        "auto_type": "售前咨询",
+        "modified_type": "售后-信息解答",
+        "predict_type": "售后-信息解答"
+    },
+    "360462227": {
+        "service_id": 360462227,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360488216": {
+        "service_id": 360488216,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360472157": {
+        "service_id": 360472157,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360464450": {
+        "service_id": 360464450,
+        "auto_type": "售后",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-质量问题"
+    },
+    "360458633": {
+        "service_id": 360458633,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "email_data_error"
+    },
+    "360462319": {
+        "service_id": 360462319,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360481414": {
+        "service_id": 360481414,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360481547": {
+        "service_id": 360481547,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-客户主观不满意"
+    },
+    "360472566": {
+        "service_id": 360472566,
+        "auto_type": "售后",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-质量问题"
+    },
+    "360460260": {
+        "service_id": 360460260,
+        "auto_type": "售后",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360473371": {
+        "service_id": 360473371,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360504803": {
+        "service_id": 360504803,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360509671": {
+        "service_id": 360509671,
+        "auto_type": "售前咨询",
+        "modified_type": "售后-物流延迟",
+        "predict_type": "广告"
+    },
+    "360496969": {
+        "service_id": 360496969,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360500729": {
+        "service_id": 360500729,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360486054": {
+        "service_id": 360486054,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360499215": {
+        "service_id": 360499215,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360460560": {
+        "service_id": 360460560,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360460156": {
+        "service_id": 360460156,
+        "auto_type": "售后",
+        "modified_type": "售后-信息解答",
+        "predict_type": "售后-信息解答"
+    },
+    "360503563": {
+        "service_id": 360503563,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360493449": {
+        "service_id": 360493449,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360459435": {
+        "service_id": 360459435,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360488569": {
+        "service_id": 360488569,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360505451": {
+        "service_id": 360505451,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360460367": {
+        "service_id": 360460367,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360464277": {
+        "service_id": 360464277,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360485029": {
+        "service_id": 360485029,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360512214": {
+        "service_id": 360512214,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360462822": {
+        "service_id": 360462822,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360516485": {
+        "service_id": 360516485,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "感谢语",
+        "predict_type": "售前咨询"
+    },
+    "360512106": {
+        "service_id": 360512106,
+        "auto_type": "售前咨询",
+        "modified_type": "广告",
+        "predict_type": "email_data_error"
+    },
+    "360468826": {
+        "service_id": 360468826,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360460379": {
+        "service_id": 360460379,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售后-物流延迟"
+    },
+    "360503572": {
+        "service_id": 360503572,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360488739": {
+        "service_id": 360488739,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360474693": {
+        "service_id": 360474693,
+        "auto_type": "售后",
+        "modified_type": "售后-物流延迟",
+        "predict_type": "售后-物流延迟"
+    },
+    "360483786": {
+        "service_id": 360483786,
+        "auto_type": "售前咨询",
+        "modified_type": "售后-信息解答",
+        "predict_type": "售后-客户主观不满意"
+    },
+    "360500771": {
+        "service_id": 360500771,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售中-物流咨询"
+    },
+    "360471663": {
+        "service_id": 360471663,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360496179": {
+        "service_id": 360496179,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "感谢语",
+        "predict_type": "售前咨询"
+    },
+    "360510684": {
+        "service_id": 360510684,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-质量问题"
+    },
+    "360483695": {
+        "service_id": 360483695,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-缺货下架",
+        "predict_type": "售前咨询"
+    },
+    "360490102": {
+        "service_id": 360490102,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-质量问题"
+    },
+    "360474678": {
+        "service_id": 360474678,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售后-物流破损"
+    },
+    "360478110": {
+        "service_id": 360478110,
+        "auto_type": "售前",
+        "modified_type": "售后-信息解答",
+        "predict_type": "售后-信息解答"
+    },
+    "360458147": {
+        "service_id": 360458147,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360468531": {
+        "service_id": 360468531,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360484126": {
+        "service_id": 360484126,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360479230": {
+        "service_id": 360479230,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360463673": {
+        "service_id": 360463673,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360497403": {
+        "service_id": 360497403,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360486642": {
+        "service_id": 360486642,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360472505": {
+        "service_id": 360472505,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360476353": {
+        "service_id": 360476353,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360460733": {
+        "service_id": 360460733,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360481792": {
+        "service_id": 360481792,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360508002": {
+        "service_id": 360508002,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "email_data_error"
+    },
+    "360474296": {
+        "service_id": 360474296,
+        "auto_type": "售前",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360485115": {
+        "service_id": 360485115,
+        "auto_type": "售后-信息解答",
+        "modified_type": "感谢语",
+        "predict_type": "感谢语"
+    },
+    "360499958": {
+        "service_id": 360499958,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360461040": {
+        "service_id": 360461040,
+        "auto_type": "售后",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360503559": {
+        "service_id": 360503559,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360474189": {
+        "service_id": 360474189,
+        "auto_type": "售前",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360477929": {
+        "service_id": 360477929,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360476417": {
+        "service_id": 360476417,
+        "auto_type": "售前",
+        "modified_type": "广告",
+        "predict_type": "广告"
+    },
+    "360478585": {
+        "service_id": 360478585,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360490666": {
+        "service_id": 360490666,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360486892": {
+        "service_id": 360486892,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360462175": {
+        "service_id": 360462175,
+        "auto_type": "售后",
+        "modified_type": "售中-信息解答",
+        "predict_type": "售中-信息解答"
+    },
+    "360497776": {
+        "service_id": 360497776,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360470037": {
+        "service_id": 360470037,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售后-物流延迟"
+    },
+    "360468163": {
+        "service_id": 360468163,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360488872": {
+        "service_id": 360488872,
+        "auto_type": "售前咨询",
+        "modified_type": "广告",
+        "predict_type": "广告"
+    },
+    "360498565": {
+        "service_id": 360498565,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360503886": {
+        "service_id": 360503886,
+        "auto_type": "售前咨询",
+        "modified_type": "广告",
+        "predict_type": "广告"
+    },
+    "360500077": {
+        "service_id": 360500077,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360474124": {
+        "service_id": 360474124,
+        "auto_type": "售后",
+        "modified_type": "售后-信息解答",
+        "predict_type": "售后-物流破损"
+    },
+    "360459233": {
+        "service_id": 360459233,
+        "auto_type": "售前",
+        "modified_type": "新入订单取消",
+        "predict_type": "售中-取消订单"
+    },
+    "360510320": {
+        "service_id": 360510320,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360478648": {
+        "service_id": 360478648,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360473847": {
+        "service_id": 360473847,
+        "auto_type": "售后",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360491867": {
+        "service_id": 360491867,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "email_data_error"
+    },
+    "360467072": {
+        "service_id": 360467072,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360477141": {
+        "service_id": 360477141,
+        "auto_type": "售前",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360488608": {
+        "service_id": 360488608,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360502619": {
+        "service_id": 360502619,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360467881": {
+        "service_id": 360467881,
+        "auto_type": "售后",
+        "modified_type": "售后-信息解答",
+        "predict_type": "售中-取消订单"
+    },
+    "360494796": {
+        "service_id": 360494796,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360485542": {
+        "service_id": 360485542,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360489215": {
+        "service_id": 360489215,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360474951": {
+        "service_id": 360474951,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360470914": {
+        "service_id": 360470914,
+        "auto_type": "售后",
+        "modified_type": "售后-信息解答",
+        "predict_type": "感谢语"
+    },
+    "360473149": {
+        "service_id": 360473149,
+        "auto_type": "售前",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360501360": {
+        "service_id": 360501360,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360470505": {
+        "service_id": 360470505,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360468090": {
+        "service_id": 360468090,
+        "auto_type": "售后",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360494723": {
+        "service_id": 360494723,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360471449": {
+        "service_id": 360471449,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360479878": {
+        "service_id": 360479878,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360512831": {
+        "service_id": 360512831,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360460920": {
+        "service_id": 360460920,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360465053": {
+        "service_id": 360465053,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360485730": {
+        "service_id": 360485730,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360516210": {
+        "service_id": 360516210,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-质量问题"
+    },
+    "360515295": {
+        "service_id": 360515295,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360492030": {
+        "service_id": 360492030,
+        "auto_type": "售前咨询",
+        "modified_type": "售后-质量问题",
+        "predict_type": "email_data_error"
+    },
+    "360487584": {
+        "service_id": 360487584,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360484192": {
+        "service_id": 360484192,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360506247": {
+        "service_id": 360506247,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360474360": {
+        "service_id": 360474360,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360468049": {
+        "service_id": 360468049,
+        "auto_type": "售后",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-客户主观不满意"
+    },
+    "360477263": {
+        "service_id": 360477263,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "error"
+    },
+    "360514080": {
+        "service_id": 360514080,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360467188": {
+        "service_id": 360467188,
+        "auto_type": "售后",
+        "modified_type": "售后-信息解答",
+        "predict_type": "email_data_error"
+    },
+    "360464626": {
+        "service_id": 360464626,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360484521": {
+        "service_id": 360484521,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "感谢语",
+        "predict_type": "感谢语"
+    },
+    "360467749": {
+        "service_id": 360467749,
+        "auto_type": "售后",
+        "modified_type": "售后-信息解答",
+        "predict_type": "售中-取消订单"
+    },
+    "360462170": {
+        "service_id": 360462170,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360481331": {
+        "service_id": 360481331,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360499939": {
+        "service_id": 360499939,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "email_data_error"
+    },
+    "360475594": {
+        "service_id": 360475594,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360515491": {
+        "service_id": 360515491,
+        "auto_type": "售后-信息解答",
+        "modified_type": "感谢语",
+        "predict_type": "售后-质量问题"
+    },
+    "360470423": {
+        "service_id": 360470423,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360464143": {
+        "service_id": 360464143,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360465430": {
+        "service_id": 360465430,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360511672": {
+        "service_id": 360511672,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-客户主观不满意"
+    },
+    "360458391": {
+        "service_id": 360458391,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360478836": {
+        "service_id": 360478836,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360460529": {
+        "service_id": 360460529,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360493939": {
+        "service_id": 360493939,
+        "auto_type": "售前咨询",
+        "modified_type": "售后-物流破损",
+        "predict_type": "error"
+    },
+    "360484136": {
+        "service_id": 360484136,
+        "auto_type": "售后-信息解答",
+        "modified_type": "感谢语",
+        "predict_type": "email_data_error"
+    },
+    "360476006": {
+        "service_id": 360476006,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360514875": {
+        "service_id": 360514875,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360493385": {
+        "service_id": 360493385,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360475929": {
+        "service_id": 360475929,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360484304": {
+        "service_id": 360484304,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360469594": {
+        "service_id": 360469594,
+        "auto_type": "售后",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-信息解答"
+    },
+    "360504505": {
+        "service_id": 360504505,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360513391": {
+        "service_id": 360513391,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360503053": {
+        "service_id": 360503053,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360457610": {
+        "service_id": 360457610,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360479546": {
+        "service_id": 360479546,
+        "auto_type": "售后",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360465670": {
+        "service_id": 360465670,
+        "auto_type": "售后",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360495259": {
+        "service_id": 360495259,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360480650": {
+        "service_id": 360480650,
+        "auto_type": "售后",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360467870": {
+        "service_id": 360467870,
+        "auto_type": "售后",
+        "modified_type": "售后-尺寸问题",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360466557": {
+        "service_id": 360466557,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360490558": {
+        "service_id": 360490558,
+        "auto_type": "售后-信息解答",
+        "modified_type": "感谢语",
+        "predict_type": "感谢语"
+    },
+    "360481459": {
+        "service_id": 360481459,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360470300": {
+        "service_id": 360470300,
+        "auto_type": "售前",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360502471": {
+        "service_id": 360502471,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360474055": {
+        "service_id": 360474055,
+        "auto_type": "售后",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360511200": {
+        "service_id": 360511200,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-质量问题"
+    },
+    "360463051": {
+        "service_id": 360463051,
+        "auto_type": "售前",
+        "modified_type": "广告",
+        "predict_type": "email_data_error"
+    },
+    "360490195": {
+        "service_id": 360490195,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "error"
+    },
+    "360512416": {
+        "service_id": 360512416,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360505487": {
+        "service_id": 360505487,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-质量问题"
+    },
+    "360507725": {
+        "service_id": 360507725,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360510618": {
+        "service_id": 360510618,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-尺寸问题",
+        "predict_type": "售后-质量问题"
+    },
+    "360475530": {
+        "service_id": 360475530,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360492720": {
+        "service_id": 360492720,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "转单处理",
+        "predict_type": "售中-物流咨询"
+    },
+    "360511890": {
+        "service_id": 360511890,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "email_data_error"
+    },
+    "360475123": {
+        "service_id": 360475123,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360484701": {
+        "service_id": 360484701,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流咨询"
+    },
+    "360458294": {
+        "service_id": 360458294,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360493020": {
+        "service_id": 360493020,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-春节延期",
+        "predict_type": "售中-取消订单"
+    },
+    "360463439": {
+        "service_id": 360463439,
+        "auto_type": "售后",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360486334": {
+        "service_id": 360486334,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360482266": {
+        "service_id": 360482266,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360477948": {
+        "service_id": 360477948,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "email_data_error"
+    },
+    "360466360": {
+        "service_id": 360466360,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360503359": {
+        "service_id": 360503359,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-质量问题"
+    },
+    "360482310": {
+        "service_id": 360482310,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360514748": {
+        "service_id": 360514748,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流延迟",
+        "predict_type": "售后-物流延迟"
+    },
+    "360461768": {
+        "service_id": 360461768,
+        "auto_type": "售后",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售后-物流延迟"
+    },
+    "360492581": {
+        "service_id": 360492581,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-客户主观不满意"
+    },
+    "360467728": {
+        "service_id": 360467728,
+        "auto_type": "售前",
+        "modified_type": "售中-修改订单",
+        "predict_type": "售中-修改订单"
+    },
+    "360462801": {
+        "service_id": 360462801,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360486055": {
+        "service_id": 360486055,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360479928": {
+        "service_id": 360479928,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360487386": {
+        "service_id": 360487386,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360482663": {
+        "service_id": 360482663,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360492358": {
+        "service_id": 360492358,
+        "auto_type": "售后-信息解答",
+        "modified_type": "感谢语",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360477655": {
+        "service_id": 360477655,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360473134": {
+        "service_id": 360473134,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "error"
+    },
+    "360461355": {
+        "service_id": 360461355,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360466399": {
+        "service_id": 360466399,
+        "auto_type": "售后",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360504345": {
+        "service_id": 360504345,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360516137": {
+        "service_id": 360516137,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360489891": {
+        "service_id": 360489891,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360507875": {
+        "service_id": 360507875,
+        "auto_type": "售前咨询",
+        "modified_type": "广告",
+        "predict_type": "广告"
+    },
+    "360487468": {
+        "service_id": 360487468,
+        "auto_type": "待识别",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360480244": {
+        "service_id": 360480244,
+        "auto_type": "售后",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360492213": {
+        "service_id": 360492213,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360465700": {
+        "service_id": 360465700,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360492717": {
+        "service_id": 360492717,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360511190": {
+        "service_id": 360511190,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "感谢语",
+        "predict_type": "感谢语"
+    },
+    "360492287": {
+        "service_id": 360492287,
+        "auto_type": "售中-修改订单",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360463298": {
+        "service_id": 360463298,
+        "auto_type": "售前",
+        "modified_type": "售前咨询",
+        "predict_type": "email_data_error"
+    },
+    "360496516": {
+        "service_id": 360496516,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360512269": {
+        "service_id": 360512269,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360483531": {
+        "service_id": 360483531,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360474380": {
+        "service_id": 360474380,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360462402": {
+        "service_id": 360462402,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360486595": {
+        "service_id": 360486595,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360486316": {
+        "service_id": 360486316,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360484158": {
+        "service_id": 360484158,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360463404": {
+        "service_id": 360463404,
+        "auto_type": "售后",
+        "modified_type": "感谢语",
+        "predict_type": "售中-物流咨询"
+    },
+    "360504485": {
+        "service_id": 360504485,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360488724": {
+        "service_id": 360488724,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360485103": {
+        "service_id": 360485103,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360477756": {
+        "service_id": 360477756,
+        "auto_type": "售前",
+        "modified_type": "售后-信息解答",
+        "predict_type": "email_data_error"
+    },
+    "360482967": {
+        "service_id": 360482967,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360476809": {
+        "service_id": 360476809,
+        "auto_type": "售后",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360482854": {
+        "service_id": 360482854,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360511130": {
+        "service_id": 360511130,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-客户主观不满意"
+    },
+    "360508806": {
+        "service_id": 360508806,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-质量问题"
+    },
+    "360510305": {
+        "service_id": 360510305,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-修改订单"
+    },
+    "360503161": {
+        "service_id": 360503161,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360486466": {
+        "service_id": 360486466,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360495070": {
+        "service_id": 360495070,
+        "auto_type": "售中-物流咨询",
+        "modified_type": "售中-取消订单",
+        "predict_type": "售中-取消订单"
+    },
+    "360469583": {
+        "service_id": 360469583,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360480091": {
+        "service_id": 360480091,
+        "auto_type": "售前",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360509413": {
+        "service_id": 360509413,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360482530": {
+        "service_id": 360482530,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360459328": {
+        "service_id": 360459328,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360472170": {
+        "service_id": 360472170,
+        "auto_type": "售前",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360495361": {
+        "service_id": 360495361,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360482612": {
+        "service_id": 360482612,
+        "auto_type": "售前咨询",
+        "modified_type": "售后-错寄/少寄",
+        "predict_type": "售后-物流咨询"
+    },
+    "360495060": {
+        "service_id": 360495060,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-质量问题"
+    },
+    "360463010": {
+        "service_id": 360463010,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360504710": {
+        "service_id": 360504710,
+        "auto_type": "待识别",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360495611": {
+        "service_id": 360495611,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360502139": {
+        "service_id": 360502139,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360485641": {
+        "service_id": 360485641,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360504282": {
+        "service_id": 360504282,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360471698": {
+        "service_id": 360471698,
+        "auto_type": "售后",
+        "modified_type": "售后-信息解答",
+        "predict_type": "email_data_error"
+    },
+    "360476577": {
+        "service_id": 360476577,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360478717": {
+        "service_id": 360478717,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "email_data_error"
+    },
+    "360515224": {
+        "service_id": 360515224,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售后-物流破损",
+        "predict_type": "售后-物流破损"
+    },
+    "360465207": {
+        "service_id": 360465207,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360468950": {
+        "service_id": 360468950,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360460723": {
+        "service_id": 360460723,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360498536": {
+        "service_id": 360498536,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360501468": {
+        "service_id": 360501468,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360475030": {
+        "service_id": 360475030,
+        "auto_type": "售后",
+        "modified_type": "售后-质量问题",
+        "predict_type": "售后-质量问题"
+    },
+    "360494260": {
+        "service_id": 360494260,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-客户主观不满意",
+        "predict_type": "售后-质量问题"
+    },
+    "360494893": {
+        "service_id": 360494893,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360466824": {
+        "service_id": 360466824,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360475743": {
+        "service_id": 360475743,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-错寄/少寄"
+    },
+    "360488917": {
+        "service_id": 360488917,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360469987": {
+        "service_id": 360469987,
+        "auto_type": "售前",
+        "modified_type": "售前咨询",
+        "predict_type": "售前咨询"
+    },
+    "360480135": {
+        "service_id": 360480135,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360511944": {
+        "service_id": 360511944,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售后-物流破损",
+        "predict_type": "email_data_error"
+    },
+    "360502195": {
+        "service_id": 360502195,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360465745": {
+        "service_id": 360465745,
+        "auto_type": "售后",
+        "modified_type": "其他-其他",
+        "predict_type": "广告"
+    },
+    "360514283": {
+        "service_id": 360514283,
+        "auto_type": "售后-信息解答",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360474386": {
+        "service_id": 360474386,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360472860": {
+        "service_id": 360472860,
+        "auto_type": "售前",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360482650": {
+        "service_id": 360482650,
+        "auto_type": "售前咨询",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360458491": {
+        "service_id": 360458491,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "360461811": {
+        "service_id": 360461811,
+        "auto_type": "售后",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售中-物流咨询"
+    },
+    "360514161": {
+        "service_id": 360514161,
+        "auto_type": "售后-物流延迟",
+        "modified_type": "售中-物流咨询",
+        "predict_type": "售后-物流延迟"
+    },
+    "summary": {
+        "total_cost": 1.6850640000000003,
+        "total_services": 300
+    }
+}
